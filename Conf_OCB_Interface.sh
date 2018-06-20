@@ -1,3 +1,4 @@
+#Configuración del modo OCB en el caso de tener dos tarjetas miniPCI atheros
 #/bin/bash
 
 ip link set wlp3s0 down
