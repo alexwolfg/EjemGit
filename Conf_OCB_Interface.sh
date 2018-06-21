@@ -17,3 +17,4 @@ ifconfig ocb0 192.168.1.2 netmask 255.255.255.0
 
 
 #Hay que tener cuidado en caso de tener varias tarjetas Atheros, ya que una se  empleará para como interfaz externa para internet y la otra para OCB.
+#Por eso se baja una de las tarjetas al inicio del ejecutable (la que proporciona conexión con Internet).
