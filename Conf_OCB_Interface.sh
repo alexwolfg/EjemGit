@@ -16,4 +16,4 @@ iw dev | iwconfig
 ifconfig ocb0 192.168.1.2 netmask 255.255.255.0 
 
 
-
+#Hay que tener cuidado en caso de tener varias tarjetas Atheros, ya que una se  empleará para como interfaz externa para internet y la otra para OCB.
